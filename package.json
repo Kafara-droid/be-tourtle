@@ -7,17 +7,9 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gnanachandra/cloudrun-demo.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gnanachandra/cloudrun-demo/issues"
-  },
-  "homepage": "https://github.com/gnanachandra/cloudrun-demo#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2"
