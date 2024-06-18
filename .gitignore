@@ -1,3 +1,4 @@
 node_modules
 .env
 FirebaseService.json
+"src/FirebaseService.json" 
